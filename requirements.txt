@@ -1,0 +1,6 @@
+Dependencies for the project
++ Pandas
++ Numpy
++ Matplotlib
++ Seaborn
++ Scikit-learn
