@@ -60,8 +60,6 @@ The dataset is used to predict the popularity of a track based on its audio feat
 
 # Spotify Tracks Genre Prediction
 
-[View Notebook Here](https://nbviewer.org/github/Abstract-Dex/spotify_data_insights/blob/main/main.ipynb)
-
 ## Introduction
 
 This repository contains a dataset of Spotify tracks across various genres, complete with audio features. The goal is to predict track popularity based on these features and gain insights into the most popular genres and artists.
@@ -116,7 +114,7 @@ Here's a breakdown of the dataset columns:
 
 ## Exploratory Data Analysis (EDA)
 
-The Jupyter Notebook includes comprehensive EDA, highlighting key insights and visualizations to help understand the dataset better.
+The Jupyter Notebook includes comprehensive EDA, highlighting key insights and visualizations to help understand the dataset better. [View Notebook Here](https://nbviewer.org/github/Abstract-Dex/spotify_data_insights/blob/main/main.ipynb)
 
 ## Project Structure
 
