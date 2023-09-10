@@ -1,6 +1,4 @@
-# Spotify Data Insights
-
-[View Notebook Here](https://nbviewer.org/github/Abstract-Dex/spotify_data_insights/blob/main/main.ipynb)
+<!-- # Spotify Data Insights -->
 
 <!-- ## About Dataset
 
@@ -61,6 +59,8 @@ The dataset is used to predict the popularity of a track based on its audio feat
 2. Run the cells in order -->
 
 # Spotify Tracks Genre Prediction
+
+[View Notebook Here](https://nbviewer.org/github/Abstract-Dex/spotify_data_insights/blob/main/main.ipynb)
 
 ## Introduction
 
