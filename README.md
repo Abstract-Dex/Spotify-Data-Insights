@@ -1,6 +1,6 @@
-<!-- <!-- # Spotify Data Insights
+# Spotify Data Insights
 
-[View Notebook Here](https://nbviewer.org/github/Abstract-Dex/spotify_data_insights/blob/main/main.ipynb) -->
+[View Notebook Here](https://nbviewer.org/github/Abstract-Dex/spotify_data_insights/blob/main/main.ipynb)
 
 <!-- ## About Dataset
 
@@ -58,7 +58,7 @@ The dataset is used to predict the popularity of a track based on its audio feat
 ### Running the Notebook
 
 1. Open the notebook in Jupyter Notebook
-2. Run the cells in order --> -->
+2. Run the cells in order -->
 
 # Spotify Tracks Genre Prediction
 
@@ -116,7 +116,7 @@ Here's a breakdown of the dataset columns:
 
 ## Exploratory Data Analysis (EDA)
 
-The Jupyter Notebook includes comprehensive EDA, highlighting key insights and visualizations to help you understand the dataset better.
+The Jupyter Notebook includes comprehensive EDA, highlighting key insights and visualizations to help understand the dataset better.
 
 ## Project Structure
 
