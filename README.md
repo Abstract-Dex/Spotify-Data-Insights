@@ -67,10 +67,10 @@ The Jupyter Notebook includes comprehensive EDA, highlighting key insights and v
 The exploratory data analysis revealed that the most popular genres were Pop, Hip-Hop, and Rock. The most popular artists were NewJeans, Elley Duhe and Rema. The most popular tracks were Shakira: Bzrp Music Sessions, Die For You - Remix and Calm Down (with Selena Gomez).
 Some of the charts generated during the EDA are shown below:
 
-![output2]<img src="https://github.com/Abstract-Dex/spotify_data_insights/assets/90722648/cb84710a-fd7c-4a30-9bd2-1453558feb97" width="100" height="100">
+<img src="https://github.com/Abstract-Dex/spotify_data_insights/assets/90722648/cb84710a-fd7c-4a30-9bd2-1453558feb97" width="500" height="500">
 
-![output1]<img src="https://github.com/Abstract-Dex/spotify_data_insights/assets/90722648/15f496b4-d3e2-4da6-8f72-143275ffc7a7" width="100" height="100">
+<img src="https://github.com/Abstract-Dex/spotify_data_insights/assets/90722648/15f496b4-d3e2-4da6-8f72-143275ffc7a7" width="500" height="500">
 
-![output]<img src="https://github.com/Abstract-Dex/spotify_data_insights/assets/90722648/a97aa1e8-5ef5-4e1e-83d4-515fe599d1fd" width="100" height="100">
+<img src="https://github.com/Abstract-Dex/spotify_data_insights/assets/90722648/a97aa1e8-5ef5-4e1e-83d4-515fe599d1fd" width="500" height="500">
 
 The best performing model was a Random Forest Regressor with a mean absolute error (MAE) of 9.5. Another model, was then trained on the important features identified by the Random Forest Regressor. This model was also a Random Forest Regressor, and it achieved a MAE of 0.49.
